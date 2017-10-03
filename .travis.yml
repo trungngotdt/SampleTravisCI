@@ -5,4 +5,4 @@ install:
   - nuget install NUnit.Runners -Version 3.7.0 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release SampleTravisCI.sln
-  - mono ./testrunner/NUnit.Runners.3.7.0/tools/nunit-console.exe ./Calculator.Test/bin/Release/Calculator.Test.dll
+  - mono ./testrunner/NUnit.ConsoleRunner.3.7.0/tools/nunit3-console.exe ./Calculator.Test/bin/Release/Calculator.Test.dll
