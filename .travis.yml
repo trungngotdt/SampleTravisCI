@@ -2,6 +2,6 @@ language: csharp
 solution: SampleTravisCI.sln
 install:
   - nuget restore SampleTravisCI.sln
-  - nuget install NUnit.Runners -Version 3.8.1 -OutputDirectory testrunner
+  - nuget install NUnit -Version 3.8.1 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release SampleTravisCI.sln
