@@ -4,5 +4,5 @@ install:
   - nuget restore SampleTravisCI.sln
   - nuget install NUnit -Version 3.8.1 -OutputDirectory testrunner
 script:
-  - xbuild /p:Configuration=Release SampleTravisCI.sln
-  ./Calculator.Test/bin/Release/Calculator.Test.dll
+  - xbuild /p:Configuration=Debug SampleTravisCI.sln
+  ./Calculator.Test/bin/Debug/Calculator.Test.dll
