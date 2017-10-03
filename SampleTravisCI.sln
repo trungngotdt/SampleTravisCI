@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleTravisCI", "SampleTravisCI\SampleTravisCI.csproj", "{0EC0EB5B-4467-4F49-891B-A6196444888A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Test", "Calculator.Test\Calculator.Test.csproj", "{7DA01D57-D32A-4264-B590-D564EFBF689D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC0EB5B-4467-4F49-891B-A6196444888A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC0EB5B-4467-4F49-891B-A6196444888A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC0EB5B-4467-4F49-891B-A6196444888A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC0EB5B-4467-4F49-891B-A6196444888A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA01D57-D32A-4264-B590-D564EFBF689D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA01D57-D32A-4264-B590-D564EFBF689D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA01D57-D32A-4264-B590-D564EFBF689D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA01D57-D32A-4264-B590-D564EFBF689D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B372FCB-A6E6-46D9-97B4-19F6531D7467}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ngotrung.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SampleTravisCI\\SampleTravisCI.csproj
+		SccProjectName1 = SampleTravisCI
+		SccLocalPath1 = SampleTravisCI
+		SccProjectUniqueName2 = Calculator.Test\\Calculator.Test.csproj
+		SccProjectName2 = Calculator.Test
+		SccLocalPath2 = Calculator.Test
+	EndGlobalSection
+EndGlobal

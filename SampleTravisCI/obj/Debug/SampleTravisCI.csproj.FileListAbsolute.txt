@@ -1,0 +1,7 @@
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleTravisCI\SampleTravisCI\bin\Debug\SampleTravisCI.exe.config
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleTravisCI\SampleTravisCI\bin\Debug\SampleTravisCI.exe
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleTravisCI\SampleTravisCI\bin\Debug\SampleTravisCI.pdb
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleTravisCI\SampleTravisCI\obj\Debug\SampleTravisCI.csprojResolveAssemblyReference.cache
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleTravisCI\SampleTravisCI\obj\Debug\SampleTravisCI.csproj.CoreCompileInputs.cache
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleTravisCI\SampleTravisCI\obj\Debug\SampleTravisCI.exe
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleTravisCI\SampleTravisCI\obj\Debug\SampleTravisCI.pdb
